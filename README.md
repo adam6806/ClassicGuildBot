@@ -1,0 +1,2 @@
+# ClassicGuildBot
+A bot for 
